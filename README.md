@@ -1,6 +1,6 @@
 # 📚 BooksCollector: Unit Testing Framework
 
-![CI/CD Status](https://github.com/AlyaSmirnova/Sprint_4/actions/workflows/.github/workflows/python-test.yml/badge.svg)
+![CI/CD Status](https://github.com/AlyaSmirnova/Sprint_4/actions/workflows/python-test.yml/badge.svg)
 [![Python Version](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org)
 [![Testing Framework](https://img.shields.io/badge/testing-pytest-orange)](https://docs.pytest.org)
 [![Coverage](https://img.shields.io/badge/coverage-95%25-green)](https://github.com/AlyaSmirnova/Sprint_4/actions)
